@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "laravel/framework": "^9.0",
+        "laravel/framework": "9.0",
         "mtvs/eloquent-approval": "^5.0"
 
     },
